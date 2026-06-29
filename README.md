@@ -1,6 +1,6 @@
-# Freelance Scope Guard
+# LancePro
 
-Freelance Scope Guard is a local-first web app for freelancers who need to control scope creep. It turns contract language, client messages, and evidence into a clear approval workflow.
+LancePro is a local-first web app for freelancers who need to control scope creep. It turns contract language, client messages, and evidence into a clear approval workflow.
 
 ## What It Does
 

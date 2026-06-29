@@ -317,7 +317,7 @@ function App() {
   }
 
   if (!selectedProject || !metrics) {
-    return <div className="boot">Freelance Scope Guard</div>;
+    return <div className="boot">LancePro</div>;
   }
 
   const healthCopy: Record<ProjectHealth, string> = {
@@ -334,8 +334,8 @@ function App() {
             <ShieldCheck size={22} />
           </div>
           <div>
-            <span>Freelance</span>
-            <strong>Scope Guard</strong>
+            <span>Lance</span>
+            <strong>Pro</strong>
           </div>
         </div>
 
@@ -385,7 +385,7 @@ function App() {
           <PaneButton icon={<LibraryBig size={18} />} label="Demo" pane="demo" activePane={activePane} setActivePane={setActivePane} />
         </nav>
 
-        <button className="sidebar-action" type="button" onClick={restoreDemo}>
+        <button className="sidebar-action" type="button" onClick={() => restoreDemo()}>
           <RotateCcw size={16} />
           Reset demo
         </button>

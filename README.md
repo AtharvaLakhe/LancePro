@@ -1,5 +1,7 @@
 # LancePro
 
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE) ![React](https://img.shields.io/badge/React-UI-149ECA?logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178C6?logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-build-646CFF?logo=vite&logoColor=white) ![Playwright](https://img.shields.io/badge/tests-Playwright-2EAD33?logo=playwright&logoColor=white) ![Local-first](https://img.shields.io/badge/data-local--first-555555) ![Last commit](https://img.shields.io/github/last-commit/AtharvaLakhe/LancePro)
+
 LancePro is a local-first web app for freelancers who need to control scope creep. It turns contract language, client messages, and evidence into a clear approval workflow.
 
 ## What It Does
